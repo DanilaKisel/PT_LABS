@@ -1,0 +1,15 @@
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.exe
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.deps.json
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.runtimeconfig.json
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.dll
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.pdb
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.AssemblyInfoInputs.cache
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.AssemblyInfo.cs
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.csproj.CoreCompileInputs.cache
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.sourcelink.json
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.dll
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\refint\OOP_SAMPLE.dll
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.pdb
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.genruntimeconfig.cache
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\OOP_SAMPLE\obj\Debug\net9.0\ref\OOP_SAMPLE.dll
