@@ -1,0 +1,15 @@
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\bin\Debug\net9.0\CS_Static.exe
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\bin\Debug\net9.0\CS_Static.deps.json
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\bin\Debug\net9.0\CS_Static.runtimeconfig.json
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\bin\Debug\net9.0\CS_Static.dll
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\bin\Debug\net9.0\CS_Static.pdb
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.AssemblyInfoInputs.cache
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.AssemblyInfo.cs
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.csproj.CoreCompileInputs.cache
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.sourcelink.json
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.dll
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\refint\CS_Static.dll
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.pdb
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\CS_Static.genruntimeconfig.cache
+D:\grsu\REPOS\PT_LABS\LAB05\CS_Static\obj\Debug\net9.0\ref\CS_Static.dll
