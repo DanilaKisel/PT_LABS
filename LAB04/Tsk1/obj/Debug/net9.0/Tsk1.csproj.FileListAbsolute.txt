@@ -1,0 +1,15 @@
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\bin\Debug\net9.0\Tsk1.exe
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\bin\Debug\net9.0\Tsk1.deps.json
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\bin\Debug\net9.0\Tsk1.runtimeconfig.json
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\bin\Debug\net9.0\Tsk1.dll
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\bin\Debug\net9.0\Tsk1.pdb
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.AssemblyInfoInputs.cache
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.AssemblyInfo.cs
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.csproj.CoreCompileInputs.cache
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.sourcelink.json
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.dll
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\refint\Tsk1.dll
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.pdb
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\Tsk1.genruntimeconfig.cache
+D:\Матвей\Documents\Kisel\REPOS\PT_LABS\LAB04\Tsk1\obj\Debug\net9.0\ref\Tsk1.dll
